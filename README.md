@@ -7,7 +7,7 @@ ResuMate AI is a full-stack AI-powered resume builder that helps users create, m
 ## 🔗 Live Demo
 
 Frontend (Vercel): https://resu-mate-ai-theta.vercel.app  
-Backend (Render): https://YOUR-BACKEND.onrender.com  
+Backend (Render): https://resumate-ai-a0q8.onrender.com
 
 ⚠️ Note: The backend is hosted on Render’s free tier, so the first request may take 20–40 seconds to respond.
 
