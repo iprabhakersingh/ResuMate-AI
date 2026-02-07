@@ -108,7 +108,7 @@ VITE_API_URL=https://YOUR-BACKEND.onrender.com
 ## 🧪 Local Development Setup
 
 Clone the repository:
-git clone https://github.com/yourusername/ResuMate-AI.git  
+git clone https://github.com/iprabhakersingh/ResuMate-AI.git
 cd ResuMate-AI  
 
 Start backend:
@@ -128,5 +128,5 @@ npm run dev
 Prabhaker Singh  
 Full-Stack Developer  
 
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/iprabhakersingh
+LinkedIn: https://linkedin.com/in/iprabhakersingh
