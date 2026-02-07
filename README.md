@@ -109,6 +109,7 @@ VITE_API_URL=https://YOUR-BACKEND.onrender.com
 
 Clone the repository:
 git clone https://github.com/iprabhakersingh/ResuMate-AI.git
+
 cd ResuMate-AI  
 
 Start backend:
